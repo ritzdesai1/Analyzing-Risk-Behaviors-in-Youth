@@ -1,9 +1,10 @@
 # Analyzing-Risk-Behaviors-in-Youth
 Risky behaviors are acts that increase the risk of disease or injury, which could eventually threaten health or even life. Especially, potentially risky behaviors that youths engage in will impact their well-being and life prospects. Activities such as smoking, consuming alcohol, having sex, and taking drugs will cause consequences for the remainder of their lives. Therefore, our group would like to gain a better understanding of youth risk behavior patterns and draw insights that can help teenagers create lifelong healthy behaviors. Our project builds a surveillance system that analyzes three categories of health risk behavior among the youth:
 
-Alcoholism and drug abuse
-Unhealthy Sexual Behavior
-Tobacco Usage
+<p>1. Alcoholism and drug abuse</p>
+<p>2. Unhealthy Sexual Behavior</p>
+<p>3. Tobacco Usage</p>
+   
 We obtained a data set, which contains 2,740,200 rows and 35 columns of observations, from Kaggle. It is about a Youth Risk Behavior Surveillance System (YRBSS) that conducts surveys to collect information from high school students in terms of adverse health behaviors in over 100 schools in the United States. The survey data ranges from 1991 to 2017 and associates a risk percentage to specific health-related issues over various demographic categories such as race, grade, sex, and location.
 
 Based on the data set, we come up with some meaningful questions and would like to explore more:
