@@ -5,7 +5,7 @@ Risky behaviors are acts that increase the risk of disease or injury, which coul
 <p>2. Unhealthy Sexual Behavior</p>
 <p>3. Tobacco Usage</p>
    
-We obtained a data set, which contains 2,740,200 rows and 35 columns of observations, from Kaggle. It is about a Youth Risk Behavior Surveillance System (YRBSS) that conducts surveys to collect information from high school students in terms of adverse health behaviors in over 100 schools in the United States. The survey data ranges from 1991 to 2017 and associates a risk percentage to specific health-related issues over various demographic categories such as race, grade, sex, and location.
+We obtained a data set, which contains 2,740,200 rows and 35 columns of observations, from Kaggle. It is about a Youth Risk Behavior Surveillance System (YRBSS) that conducts surveys to collect information from high school students in terms of adverse health behaviors in over 100 schools in the United States. The survey data ranges from 1991 to 2017 and associates a risk percentage to specific health-related issues over various demographic categories such as race, grade, sex, and location. (dataset source: https://www.kaggle.com/datasets/raylo168/dash-yrbss-hs-2017)
 
 Based on the data set, we come up with some meaningful questions and would like to explore more:
 
